@@ -134,6 +134,7 @@ love
 lsb-release
 lsd
 lua
+lua-socket
 lynx
 makedeb
 man-db
@@ -196,6 +197,7 @@ php-intl
 php-memcached
 php-sdl
 phpunit
+pipewire-jack
 pipewire-pulse
 plasma-desktop
 plasma-pa
