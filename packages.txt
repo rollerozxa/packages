@@ -14,6 +14,7 @@ audacity
 autokey-gtk
 base
 bleachbit
+blender
 blok-drop-u
 bluedevil
 breeze-icons
