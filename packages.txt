@@ -19,7 +19,6 @@ blender
 bluedevil
 breeze-icons
 bsod
-bytecode-viewer
 ccache
 cdrdao
 cdrtools
@@ -42,7 +41,6 @@ dialog
 discord-rpc-api
 dnsmasq
 docker
-dog
 dolphin
 dolphin-emu
 dolphin-plugins
@@ -79,8 +77,6 @@ git
 gitui
 gnome-keyring
 gnu-free-fonts
-gnu-netcat
-godot
 gource
 gpxsee
 gradle
@@ -88,14 +84,12 @@ grapejuice-git
 grub
 gwenview
 hexchat
-hexdiff
 htop
 icoutils
 inetutils
 inkscape
 inxi
 iptables-nft
-irrlicht
 jadx
 java-openjfx
 jd-gui-bin
@@ -170,8 +164,6 @@ mpv
 mtools
 mtpfs
 mtsedit-git
-nano
-nano-syntax-highlighting
 nbtexplorer-bin
 neofetch
 net-tools
@@ -206,7 +198,6 @@ plasma-pa
 plasma-wayland-session
 pngquant
 postman-bin
-powertop
 pulseaudio-ctl
 pysolfc
 python-discord-git
@@ -214,10 +205,7 @@ python-discord-webhook
 python-kaitaistruct
 python-lxml
 python-natsort
-python-praw
 python-pyautogui
-python-pygame
-python-urwid
 qbittorrent
 qdirstat
 qemu
