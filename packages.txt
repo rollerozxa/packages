@@ -13,9 +13,9 @@ asp
 audacity
 autokey-gtk
 base
+base-devel
 bleachbit
 blender
-blok-drop-u
 bluedevil
 breeze-icons
 bsod
@@ -24,7 +24,6 @@ ccache
 cdrdao
 cdrtools
 cgit
-changed
 chromium
 clamtk
 classicube-git
@@ -144,8 +143,10 @@ mcaselector
 melonds-git
 memcached
 memtest86+
+mese-block-cult
 mgba-qt
 micro
+milkytracker-rollerozxa
 minecraft-c
 minetest-alter
 minetest-box-world-3d
@@ -233,6 +234,7 @@ scour
 scrcpy
 screen
 sddm
+sddm-theme-basic-dark
 setconf
 slock
 smartmontools
@@ -282,3 +284,4 @@ xf86-video-amdgpu
 xorg-xinit
 yay-bin
 yt-dlp
+zshrc-rollerozxa
