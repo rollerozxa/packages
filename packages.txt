@@ -216,6 +216,7 @@ rpi-imager-bin
 rsync
 ruby-jekyll-paginate
 ruby-jekyll-sitemap
+rz-cutter
 s-bin
 sassc
 scour
