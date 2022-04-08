@@ -14,6 +14,7 @@ audacity
 autokey-gtk
 base
 base-devel
+beautiful-discord-git
 bleachbit
 blender
 bluedevil
@@ -84,6 +85,7 @@ grapejuice-git
 grub
 gwenview
 hexchat
+hexdiff
 htop
 icoutils
 inetutils
@@ -217,6 +219,7 @@ rsync
 ruby-jekyll-paginate
 ruby-jekyll-sitemap
 rz-cutter
+rz-ghidra
 s-bin
 sassc
 scour
