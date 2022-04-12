@@ -179,6 +179,7 @@ obs-studio
 okular
 openmpt
 openssh
+opera
 optipng
 p7zip
 pacman-contrib
@@ -204,6 +205,7 @@ pulseaudio-ctl
 pysolfc
 python-discord-git
 python-discord-webhook
+python-flask
 python-kaitaistruct
 python-lxml
 python-natsort
@@ -212,6 +214,7 @@ qbittorrent
 qdirstat
 qemu
 qt5-imageformats
+qtqr
 rclone
 rng-tools
 rpi-imager-bin
