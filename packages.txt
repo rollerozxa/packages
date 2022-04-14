@@ -14,6 +14,7 @@ audacity
 autokey-gtk
 base
 base-devel
+base-rollerozxa
 beautiful-discord-git
 bleachbit
 blender
@@ -31,7 +32,6 @@ click4ever
 cmake
 cmatrix
 codeblocks
-composer
 cool-retro-term
 corectrl
 cowsay
@@ -74,7 +74,6 @@ gendesk
 geogebra-5
 ghex
 gimp-devel
-git
 gitui
 gnome-keyring
 gnu-free-fonts
@@ -86,7 +85,6 @@ grub
 gwenview
 hexchat
 hexdiff
-htop
 icoutils
 inetutils
 inkscape
@@ -125,29 +123,22 @@ linux-firmware
 lmms
 logstalgia
 lolcat
-lostfiles
 love
 lsb-release
-lsd
 lua
 lua-socket
 lynx
 makedeb
 man-db
-mariadb
 mcaselector
 melonds-git
-memcached
 memtest86+
 mese-block-cult
 mgba-qt
-micro
 milkytracker-rollerozxa
 minecraft-c
 minetest-alter
-minetest-box-world-3d
 minetest-build-n-buy
-minetest-builda-city
 minetest-colour-hop
 minetest-exile
 minetest-farlands-reloaded
@@ -159,7 +150,6 @@ minetest-labyrinth
 minetest-mesecons-lab
 minetest-mineclone2
 minetest-nodecore
-minetest-prang
 mingw-w64-gcc
 mingw-w64-libpng
 mpv
@@ -167,10 +157,8 @@ mtools
 mtpfs
 mtsedit-git
 nbtexplorer-bin
-neofetch
 net-tools
 netsurf-git
-nginx
 ninja
 nload
 notepadqq
@@ -180,18 +168,14 @@ okular
 openmpt
 openssh
 opera
-optipng
-p7zip
 pacman-contrib
 pamac-aur
 partitionmanager
 pavucontrol-qt
 pcsx2
 pencil2d
-php-fpm
 php-gd
 php-intl
-php-memcached
 php-sdl
 phpunit
 pipewire-jack
@@ -224,7 +208,6 @@ ruby-jekyll-sitemap
 rz-cutter
 rz-ghidra
 s-bin
-sassc
 scour
 scrcpy
 screen
@@ -241,7 +224,6 @@ steam
 sudo
 tcpdump
 tk
-tldr
 tmux
 torbrowser-launcher
 ttf-dejavu
@@ -263,6 +245,7 @@ virtualbox-guest-iso
 visual-studio-code-bin
 vlc
 vsce
+webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
 wiiuse
@@ -271,7 +254,6 @@ wine-mono
 wine-staging
 winetricks
 wireshark-qt
-xclip
 xdebug
 xdelta3
 xdg-utils
@@ -279,4 +261,3 @@ xf86-video-amdgpu
 xorg-xinit
 yay-bin
 yt-dlp
-zshrc-rollerozxa
