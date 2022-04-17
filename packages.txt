@@ -5,7 +5,7 @@ android-apktool
 android-sdk-build-tools
 apng-utils
 appimagelauncher
-arch-install-scripts
+archiso
 ark
 asar
 asciidoctor
