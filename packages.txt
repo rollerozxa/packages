@@ -24,7 +24,6 @@ bsod
 ccache
 cdrdao
 cdrtools
-cgit
 chromium
 clamtk
 classicube-git
@@ -99,6 +98,7 @@ jekyll
 jpegoptim
 jre-openjdk
 jre11-openjdk
+jre17-openjdk
 k3b
 kate
 kcalc
@@ -151,7 +151,6 @@ minetest-mesecons-lab
 minetest-mineclone2
 minetest-nodecore
 mingw-w64-gcc
-mingw-w64-libpng
 mpv
 mtools
 mtpfs
@@ -244,7 +243,6 @@ virtualbox
 virtualbox-guest-iso
 visual-studio-code-bin
 vlc
-vsce
 webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
