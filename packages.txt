@@ -77,6 +77,7 @@ gitui
 gnome-keyring
 gnu-free-fonts
 gource
+goxel
 gpxsee
 gradle
 grapejuice-git
@@ -84,6 +85,7 @@ grub
 gwenview
 hexchat
 hexdiff
+hugo
 icoutils
 inetutils
 inkscape
@@ -141,13 +143,10 @@ minetest-alter
 minetest-build-n-buy
 minetest-colour-hop
 minetest-exile
-minetest-farlands-reloaded
 minetest-formspec-editor
-minetest-grand-theft-box
 minetest-hades-revisited
 minetest-infinite-ikea
 minetest-labyrinth
-minetest-mesecons-lab
 minetest-mineclone2
 minetest-nodecore
 mingw-w64-gcc
