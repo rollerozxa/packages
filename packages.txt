@@ -1,3 +1,4 @@
+activate-linux-git
 adminer
 adminer-skins-hydra
 amd-ucode
@@ -194,9 +195,10 @@ python-natsort
 python-pyautogui
 qbittorrent
 qdirstat
-qemu
+qemu-desktop
 qt5-imageformats
 qtqr
+raccoon-bin
 rclone
 rng-tools
 rpi-imager-bin
