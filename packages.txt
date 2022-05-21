@@ -20,7 +20,6 @@ beautiful-discord-git
 bleachbit
 blender
 bluedevil
-breeze-icons
 bsod
 ccache
 cdrdao
@@ -32,7 +31,6 @@ click4ever
 cmake
 cmatrix
 codeblocks
-cool-retro-term
 corectrl
 cowsay
 dart-sass
@@ -48,7 +46,6 @@ dolphin-plugins
 dos2unix
 dosbox
 doxygen
-dpkg
 drkonqi
 dropbox
 dust
@@ -91,12 +88,10 @@ icoutils
 inetutils
 inkscape
 inxi
-iptables-nft
 jadx
 java-openjfx
 jd-gui-bin
 jdk11-openjdk
-jdk8-openjdk
 jekyll
 jpegoptim
 jre-openjdk
@@ -110,15 +105,12 @@ kdiff3
 kfind
 kgamma5
 khotkeys
+kitty
 kolourpaint
-konsole
 krita
 kscreen
-kwayland-integration
-lib32-gtk3
 libdvdcss
 libopenmpt
-libpamac-aur
 libreoffice-fresh
 libresprite-git
 linux
@@ -127,7 +119,6 @@ lmms
 logstalgia
 lolcat
 love
-lsb-release
 lua
 lua-socket
 lynx
@@ -135,11 +126,9 @@ makedeb
 man-db
 mcaselector
 melonds-git
-memtest86+
 mese-block-cult
 mgba-qt
 milkytracker-rollerozxa
-minecraft-c
 minetest-alter
 minetest-build-n-buy
 minetest-colour-hop
@@ -152,7 +141,6 @@ minetest-mineclone2
 minetest-nodecore
 mingw-w64-gcc
 mpv
-mtools
 mtpfs
 mtsedit-git
 nbtexplorer-bin
@@ -165,7 +153,6 @@ ntfs-3g
 obs-studio
 okular
 openmpt
-openssh
 opera
 pacman-contrib
 pamac-aur
@@ -200,9 +187,6 @@ qt5-imageformats
 qtqr
 raccoon-bin
 rclone
-rng-tools
-rpi-imager-bin
-rsync
 ruby-jekyll-paginate
 ruby-jekyll-sitemap
 rz-cutter
@@ -210,20 +194,14 @@ rz-ghidra
 s-bin
 scour
 scrcpy
-screen
 sddm
 sddm-theme-basic-dark
-setconf
 slock
-smartmontools
 snes9x-gtk
 soundfont-fluid
 spectacle
 sqlitebrowser
 steam
-sudo
-tcpdump
-tk
 tmux
 torbrowser-launcher
 ttf-dejavu
@@ -237,7 +215,6 @@ ttf-roboto
 ttf-roboto-mono
 ttf-twemoji
 ttf-ubuntu-font-family
-uglify-js
 vim
 virt-manager
 virtualbox
@@ -247,7 +224,6 @@ vlc
 webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
-wiiuse
 wine-gecko
 wine-mono
 wine-staging
@@ -255,7 +231,6 @@ winetricks
 wireshark-qt
 xdebug
 xdelta3
-xdg-utils
 xf86-video-amdgpu
 xorg-xinit
 yay-bin
