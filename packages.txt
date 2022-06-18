@@ -90,6 +90,7 @@ inkscape
 inxi
 jadx
 java-openjfx
+java17-openjfx
 jd-gui-bin
 jdk11-openjdk
 jekyll
@@ -113,6 +114,8 @@ libdvdcss
 libopenmpt
 libreoffice-fresh
 libresprite-git
+libva-mesa-driver
+libva-utils
 linux
 linux-firmware
 lmms
@@ -140,6 +143,7 @@ minetest-labyrinth
 minetest-mineclone2
 minetest-nodecore
 mingw-w64-gcc
+movit
 mpv
 mtpfs
 mtsedit-git
@@ -152,6 +156,7 @@ notepadqq
 ntfs-3g
 obs-studio
 okular
+opencv
 openmpt
 opera
 pacman-contrib
@@ -173,6 +178,7 @@ pngquant
 postman-bin
 pulseaudio-ctl
 pysolfc
+python-cssselect
 python-discord-git
 python-discord-webhook
 python-flask
@@ -187,7 +193,9 @@ qt5-imageformats
 qtqr
 raccoon-bin
 rclone
+rtaudio
 ruby-jekyll-paginate
+ruby-jekyll-seo-tag
 ruby-jekyll-sitemap
 rz-cutter
 rz-ghidra
@@ -196,14 +204,17 @@ scour
 scrcpy
 sddm
 sddm-theme-basic-dark
+sloccount
 slock
 snes9x-gtk
 soundfont-fluid
+sox
 spectacle
 sqlitebrowser
 steam
 tmux
 torbrowser-launcher
+traceroute
 ttf-dejavu
 ttf-droid
 ttf-fira-code
@@ -221,6 +232,7 @@ virtualbox
 virtualbox-guest-iso
 visual-studio-code-bin
 vlc
+vlc-plugin-fluidsynth-bin
 webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
