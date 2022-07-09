@@ -65,6 +65,8 @@ firefox-decentraleyes
 firefox-extension-search-by-image
 firefox-stylus
 firefox-ublock-origin
+flightgear
+flightgear-data
 fontforge
 freej2me
 furnace-git
@@ -86,6 +88,8 @@ gwenview
 hexchat
 hexdiff
 hugo
+icewm
+icewm-themes-new
 icoutils
 inetutils
 inkscape
@@ -208,9 +212,11 @@ scour
 scrcpy
 sddm
 sddm-theme-basic-dark
+simgear
 sloccount
 slock
 snes9x-gtk
+socat
 soundfont-fluid
 sox
 spectacle
@@ -230,6 +236,7 @@ ttf-roboto
 ttf-roboto-mono
 ttf-twemoji
 ttf-ubuntu-font-family
+unrar
 vim
 virt-manager
 virtualbox
