@@ -117,6 +117,7 @@ kolourpaint
 krita
 kscreen
 libdvdcss
+libfm-qt
 libopenmpt
 libreoffice-fresh
 libresprite-git
@@ -130,6 +131,8 @@ lolcat
 love
 lua
 lua-socket
+luacheck
+lxqt-build-tools
 lynx
 makedeb
 man-db
