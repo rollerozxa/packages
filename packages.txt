@@ -18,6 +18,7 @@ base
 base-devel
 base-rollerozxa
 beautiful-discord-git
+bitcoin-qt
 bleachbit
 blender
 bluedevil
@@ -52,6 +53,7 @@ drkonqi
 dust
 dvd+rw-tools
 electron
+electrum
 elinks
 epsxe
 extra-cmake-modules
@@ -153,6 +155,8 @@ minetest-mineclone2
 minetest-nodecore
 mingw-w64-gcc
 mingw-w64-libpng
+monero
+monero-gui
 movit
 mpv
 mtpfs
@@ -172,6 +176,7 @@ openmpt
 opera
 pacman-contrib
 pamac-aur
+parallel
 partitionmanager
 pavucontrol-qt
 pcsx2
@@ -206,6 +211,7 @@ raccoon-bin
 rclone
 rtaudio
 ruby-jekyll-paginate
+ruby-jekyll-redirect-from
 ruby-jekyll-seo-tag
 ruby-jekyll-sitemap
 rz-cutter
