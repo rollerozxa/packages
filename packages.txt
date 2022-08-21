@@ -89,6 +89,7 @@ grub
 gwenview
 hexchat
 hexdiff
+hotspot
 hugo
 icewm
 icewm-themes-new
@@ -146,12 +147,10 @@ milkytracker-rollerozxa
 minetest-alter
 minetest-build-n-buy
 minetest-colour-hop
-minetest-exile
 minetest-formspec-editor
 minetest-hades-revisited
 minetest-infinite-ikea
 minetest-labyrinth
-minetest-mineclone2
 minetest-nodecore
 mingw-w64-gcc
 mingw-w64-libpng
@@ -181,6 +180,7 @@ partitionmanager
 pavucontrol-qt
 pcsx2
 pencil2d
+perf
 php-gd
 php-intl
 php-sdl
@@ -192,6 +192,7 @@ plasma-pa
 plasma-wayland-session
 pngquant
 postman-bin
+principia-git
 pulseaudio-ctl
 pysolfc
 python-cssselect
@@ -221,6 +222,7 @@ scour
 scrcpy
 sddm
 sddm-theme-basic-dark
+sdl2_gfx
 simgear
 sloccount
 slock
@@ -246,6 +248,7 @@ ttf-roboto-mono
 ttf-twemoji
 ttf-ubuntu-font-family
 unrar
+valgrind
 vim
 virt-manager
 virtualbox
