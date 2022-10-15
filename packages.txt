@@ -67,8 +67,6 @@ firefox-decentraleyes
 firefox-extension-search-by-image
 firefox-stylus
 firefox-ublock-origin
-flightgear
-flightgear-data
 fontforge
 freej2me
 furnace-git
@@ -76,10 +74,11 @@ gameconqueror
 gendesk
 geogebra-5
 ghex
-gimp-devel
+gimp-devel-rollerozxa
 gitui
 gnome-keyring
 gnu-free-fonts
+goaccess
 gource
 goxel
 gpxsee
@@ -142,6 +141,7 @@ man-db
 mcaselector
 melonds-git
 mese-block-cult
+meson
 mgba-qt
 milkytracker-rollerozxa
 minetest-alter
@@ -203,6 +203,7 @@ python-kaitaistruct
 python-lxml
 python-natsort
 python-pyautogui
+python-pypng
 qbittorrent
 qdirstat
 qemu-desktop
@@ -223,7 +224,6 @@ scrcpy
 sddm
 sddm-theme-basic-dark
 sdl2_gfx
-simgear
 sloccount
 slock
 snes9x-gtk
@@ -232,7 +232,9 @@ soundfont-fluid
 sox
 spectacle
 sqlitebrowser
+sqlmap
 steam
+tigervnc
 tmux
 torbrowser-launcher
 traceroute
