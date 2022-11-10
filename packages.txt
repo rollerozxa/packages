@@ -10,6 +10,7 @@ archiso
 ark
 asar
 asciidoctor
+asciinema
 asp
 audacity
 audio-recorder
@@ -55,7 +56,6 @@ dvd+rw-tools
 electron
 electrum
 elinks
-epsxe
 extra-cmake-modules
 fceux
 ffmpegthumbs
@@ -101,6 +101,7 @@ java-openjfx
 java17-openjfx
 jd-gui-bin
 jdk11-openjdk
+jdk8-openjdk
 jekyll
 jpegoptim
 jre-openjdk
@@ -118,6 +119,7 @@ kitty
 kolourpaint
 krita
 kscreen
+leveldb
 libdvdcss
 libfm-qt
 libopenmpt
@@ -133,7 +135,9 @@ lolcat
 love
 lua
 lua-socket
+lua51
 luacheck
+luarocks
 lxqt-build-tools
 lynx
 makedeb
@@ -144,6 +148,7 @@ mese-block-cult
 meson
 mgba-qt
 milkytracker-rollerozxa
+minecraft-c
 minetest-alter
 minetest-build-n-buy
 minetest-colour-hop
@@ -152,6 +157,7 @@ minetest-hades-revisited
 minetest-infinite-ikea
 minetest-labyrinth
 minetest-nodecore
+minetest-update-translations-git
 mingw-w64-gcc
 mingw-w64-libpng
 monero
@@ -184,6 +190,7 @@ perf
 php-gd
 php-intl
 php-sdl
+php-zstd
 phpunit
 pipewire-jack
 pipewire-pulse
@@ -209,6 +216,7 @@ qdirstat
 qemu-desktop
 qt5-imageformats
 qtqr
+quaternion
 raccoon-bin
 rclone
 rtaudio
