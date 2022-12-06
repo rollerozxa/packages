@@ -63,6 +63,7 @@ firefox-dark-reader
 firefox-decentraleyes
 firefox-stylus
 firefox-ublock-origin
+flamegraph
 fontforge
 freej2me
 furnace-git
@@ -159,7 +160,7 @@ mpv
 mtpfs
 nbtexplorer-bin
 net-tools
-netsurf-git
+netsurf
 ninja
 nload
 nmap
@@ -206,6 +207,7 @@ qt5-imageformats
 qtqr
 raccoon-bin
 rclone
+redis
 rtaudio
 ruby-jekyll-paginate
 ruby-jekyll-redirect-from
