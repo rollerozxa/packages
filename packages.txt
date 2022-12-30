@@ -28,7 +28,6 @@ chromium
 clamtk
 classicube-git
 click4ever
-cmake
 cmatrix
 codeblocks
 corectrl
@@ -38,7 +37,7 @@ dart-sass
 devtools
 dhcpcd
 dialog
-discord-rpc-api
+discord
 dnsmasq
 docker
 dolphin
@@ -50,9 +49,11 @@ doxygen
 drkonqi
 dust
 dvd+rw-tools
+efibootmgr
 electron
 electrum
 elinks
+ethtool
 extra-cmake-modules
 fceux
 ffmpegthumbs
@@ -71,7 +72,7 @@ gameconqueror
 gendesk
 geogebra-5
 ghex
-gimp-devel-rollerozxa
+gimp-devel
 gitui
 gnome-keyring
 gnu-free-fonts
@@ -120,7 +121,6 @@ libdvdcss
 libfm-qt
 libopenmpt
 libreoffice-fresh
-libresprite-git
 linux
 linux-firmware
 lmms
@@ -132,16 +132,14 @@ lua-socket
 lua51
 luacheck
 luarocks
-lxqt-build-tools
 lynx
-makedeb
 man-db
 mcaselector
 melonds-git
 mese-block-cult
 meson
 mgba-qt
-milkytracker-rollerozxa
+milkytracker
 minecraft-c
 minetest-alter
 minetest-build-n-buy
@@ -153,7 +151,6 @@ minetest-labyrinth
 minetest-nodecore
 minetest-update-translations-git
 mingw-w64-gcc
-mingw-w64-libpng
 monero
 monero-gui
 mpv
@@ -161,7 +158,6 @@ mtpfs
 nbtexplorer-bin
 net-tools
 netsurf
-ninja
 nload
 nmap
 notepadqq
@@ -183,7 +179,6 @@ php-intl
 php-sdl
 php-zstd
 phpunit
-pipewire-jack
 pipewire-pulse
 plasma-desktop
 plasma-pa
