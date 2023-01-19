@@ -9,7 +9,6 @@ archiso
 ark
 asar
 asciidoctor
-asciinema
 asp
 audacity
 autokey-gtk
@@ -23,14 +22,13 @@ blender
 bluedevil
 bsod
 ccache
-cdrdao
 chromium
 clamtk
 classicube-git
 click4ever
 cmatrix
 codeblocks
-corectrl
+corectrl-git
 cowsay
 cppcheck
 dart-sass
@@ -48,7 +46,6 @@ dosbox
 doxygen
 drkonqi
 dust
-dvd+rw-tools
 efibootmgr
 electron
 electrum
@@ -78,7 +75,6 @@ gnome-keyring
 gnu-free-fonts
 goaccess
 gource
-goxel
 gpxsee
 gradle
 grapejuice-git
@@ -89,7 +85,6 @@ hexchat
 hexdiff
 hotspot
 hugo
-icewm
 icoutils
 inetutils
 inkscape
@@ -117,13 +112,10 @@ kitty
 kolourpaint
 krita
 kscreen
-libdvdcss
-libfm-qt
 libopenmpt
 libreoffice-fresh
 linux
 linux-firmware
-lmms
 logstalgia
 lolcat
 love
@@ -160,7 +152,6 @@ net-tools
 netsurf
 nload
 nmap
-notepadqq
 ntfs-3g
 obs-studio
 okular
@@ -172,10 +163,7 @@ parallel
 partitionmanager
 pavucontrol-qt
 pcsx2
-pencil2d
-perf
 php-gd
-php-intl
 php-sdl
 php-zstd
 phpunit
@@ -183,7 +171,6 @@ pipewire-pulse
 plasma-desktop
 plasma-pa
 plasma-wayland-session
-pngquant
 postman-bin
 principia-git
 pulseaudio-ctl
@@ -208,8 +195,6 @@ ruby-jekyll-paginate
 ruby-jekyll-redirect-from
 ruby-jekyll-seo-tag
 ruby-jekyll-sitemap
-rz-cutter
-rz-ghidra
 scour
 scrcpy
 sddm
@@ -221,9 +206,8 @@ socat
 soundfont-fluid
 spectacle
 sqlitebrowser
-sqlmap
+sshfs
 steam
-tigervnc
 tmux
 torbrowser-launcher
 traceroute
@@ -241,8 +225,6 @@ ttf-ubuntu-font-family
 valgrind
 vim
 virt-manager
-virtualbox
-virtualbox-guest-iso
 visual-studio-code-bin
 vlc
 webdev-rollerozxa
