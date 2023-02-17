@@ -23,6 +23,7 @@ bluedevil
 bsod
 ccache
 chromium
+citra-qt-bin
 clamtk
 classicube-git
 click4ever
@@ -32,6 +33,7 @@ corectrl-git
 cowsay
 cppcheck
 dart-sass
+ddclient
 devtools
 dhcpcd
 dialog
@@ -77,15 +79,16 @@ goaccess
 gource
 gpxsee
 gradle
-grapejuice-git
 grub
 guetzli
 gwenview
 hexchat
 hexdiff
 hotspot
+httpie
 hugo
 icoutils
+imhex-bin
 inetutils
 inkscape
 inxi
@@ -128,6 +131,7 @@ lynx
 man-db
 mcaselector
 melonds-git
+mesa-utils
 mese-block-cult
 meson
 mgba-qt
@@ -136,6 +140,7 @@ minecraft-c
 minetest-alter
 minetest-build-n-buy
 minetest-colour-hop
+minetest-devtest-git
 minetest-formspec-editor
 minetest-hades-revisited
 minetest-infinite-ikea
@@ -208,6 +213,7 @@ spectacle
 sqlitebrowser
 sshfs
 steam
+stopwatch
 tmux
 torbrowser-launcher
 traceroute
@@ -230,6 +236,7 @@ vlc
 webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
+whois
 wine-mono
 wine-staging
 winetricks
