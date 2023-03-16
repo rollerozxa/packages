@@ -19,7 +19,6 @@ beautiful-discord-git
 bind
 bitcoin-qt
 bleachbit
-blender
 bluedevil
 browsh-bin
 bsod
@@ -158,12 +157,8 @@ mgba-qt
 milkytracker
 minecraft-c
 minetest-alter
-minetest-build-n-buy
-minetest-colour-hop
 minetest-devtest-git
 minetest-formspec-editor
-minetest-hades-revisited
-minetest-infinite-ikea
 minetest-labyrinth
 minetest-nodecore
 minetest-update-translations-git
@@ -172,6 +167,7 @@ monero
 monero-gui
 mpv
 mtpfs
+nasm
 nbtexplorer-bin
 net-tools
 netsurf
