@@ -19,6 +19,7 @@ beautiful-discord-git
 bind
 bitcoin-qt
 bleachbit
+blender-lts-bin
 bluedevil
 browsh-bin
 bsod
@@ -216,6 +217,7 @@ ruby-jekyll-paginate
 ruby-jekyll-redirect-from
 ruby-jekyll-seo-tag
 ruby-jekyll-sitemap
+rust
 scour
 scrcpy
 sddm
