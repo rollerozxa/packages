@@ -4,6 +4,7 @@ amd-ucode
 android-apktool
 android-sdk-build-tools
 apng-utils
+appimage-builder-bin
 appimagelauncher
 archiso
 ark
@@ -70,6 +71,7 @@ firefox-ublock-origin
 flamegraph
 fontforge
 furnace-git
+gajim
 gendesk
 geogebra-5
 ghex
@@ -88,7 +90,6 @@ gwenview
 heaptrack
 hexchat
 hexdiff
-hotspot
 httpie
 hugo
 icoutils
@@ -163,12 +164,14 @@ minetest-formspec-editor
 minetest-labyrinth
 minetest-nodecore
 minetest-update-translations-git
+mingw-w64-cmake
 mingw-w64-gcc
 monero
 monero-gui
 mpv
 mtpfs
 mypaint
+nano
 nasm
 nbtexplorer-bin
 net-tools
@@ -181,12 +184,11 @@ obs-studio
 okular
 openmpt
 opera
-osu-lazer-bin
 pacman-contrib
+pandoc-cli
 parallel
 partitionmanager
 pavucontrol-qt
-pcsx2
 php-gd
 php-sdl
 php-zstd
@@ -199,6 +201,7 @@ principia-git
 prismlauncher
 pulseaudio-ctl
 pysolfc
+python-beautifulsoup4
 python-discord-git
 python-discord-webhook
 python-flask
@@ -212,6 +215,7 @@ qemu-desktop
 qt5-imageformats
 qtqr
 raccoon-bin
+raylib
 rclone
 redis
 rnote
@@ -227,6 +231,7 @@ scrcpy
 sddm
 sddm-kcm
 sddm-theme-basic-dark
+sherlock-git
 signal-desktop
 sloccount
 slock
@@ -234,6 +239,7 @@ snes9x-gtk
 soundfont-fluid
 spectacle
 sqlitebrowser
+sqlmap
 sshfs
 steam
 stopwatch
@@ -252,6 +258,7 @@ ttf-roboto
 ttf-roboto-mono
 ttf-twemoji
 ttf-ubuntu-font-family
+uglify-js
 unrar
 valgrind
 vim
@@ -271,4 +278,5 @@ xdelta3
 xf86-video-amdgpu
 xorg-xinit
 yay-bin
+yggdrasil
 yt-dlp
