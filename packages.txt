@@ -26,7 +26,9 @@ bluedevil
 browsh-bin
 bsod
 btop
+busted
 ccache
+cheese
 chromium
 citra-qt-bin
 clamtk
@@ -60,6 +62,7 @@ ethtool
 extra-cmake-modules
 fceux
 fdupes
+feh
 ffmpegthumbs
 filelight
 filezilla
@@ -80,6 +83,7 @@ gitui
 gnome-keyring
 gnu-free-fonts
 gnu-netcat
+go
 goaccess
 gource
 gpxsee
@@ -92,11 +96,13 @@ hexchat
 hexdiff
 httpie
 hugo
+hunspell-en_gb
 icoutils
 imhex-bin
 include-what-you-use
 inetutils
 inkscape
+inotify-tools
 inxi
 jadx
 java-openjfx
@@ -109,6 +115,7 @@ jpegoptim
 jre-openjdk
 jre11-openjdk
 jre17-openjdk
+kamera
 kate
 kcalc
 kcm-wacomtablet
@@ -131,6 +138,8 @@ love
 lua
 lua-socket
 lua51
+lua51-busted
+lua51-lpeg
 luacheck
 luarocks
 lxqt-about
@@ -158,7 +167,6 @@ meson
 mgba-qt
 milkytracker
 minecraft-c
-minetest-alter
 minetest-devtest-git
 minetest-formspec-editor
 minetest-labyrinth
@@ -166,6 +174,8 @@ minetest-nodecore
 minetest-update-translations-git
 mingw-w64-cmake
 mingw-w64-gcc
+mission-center
+mkdocs
 monero
 monero-gui
 mpv
@@ -189,8 +199,10 @@ pandoc-cli
 parallel
 partitionmanager
 pavucontrol-qt
+php-apcu
 php-gd
 php-sdl
+php-sqlite
 php-zstd
 pipewire-pulse
 plasma-desktop
@@ -250,6 +262,7 @@ traceroute
 ttf-dejavu
 ttf-droid
 ttf-fira-code
+ttf-fira-mono
 ttf-inconsolata
 ttf-liberation
 ttf-ms-fonts
