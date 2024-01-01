@@ -72,6 +72,7 @@ firefox-decentraleyes
 firefox-stylus
 firefox-ublock-origin
 flamegraph
+flatpak
 fontforge
 furnace-git
 gajim
@@ -97,6 +98,7 @@ guetzli
 gwenview
 hashcat
 heaptrack
+hexcurse
 hexdiff
 hugo
 hunspell-en_gb
@@ -110,7 +112,6 @@ jadx
 jd-gui-bin
 jdk11-openjdk
 jdk8-openjdk
-jekyll
 jpegoptim
 jre11-openjdk
 jre17-openjdk
@@ -233,10 +234,7 @@ redshift-qt
 rnote
 rofi
 rtaudio
-ruby-jekyll-paginate
-ruby-jekyll-redirect-from
-ruby-jekyll-seo-tag
-ruby-jekyll-sitemap
+ruby
 rz-cutter
 rz-ghidra
 scour
