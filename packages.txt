@@ -16,10 +16,12 @@ bleachbit
 blender
 blockbench-bin
 bluedevil
+bsod
 btop
 busted
 butler
 catimg
+cdrtools
 cheese
 chromium
 citra-qt-git
@@ -82,6 +84,7 @@ heaptrack
 hexcurse
 hexdiff
 hunspell-en_gb
+hyfetch
 icoutils
 inetutils
 inkscape
@@ -93,6 +96,7 @@ jd-gui-bin
 jdk-openjdk
 jdk11-openjdk
 jdk21-openjdk
+jpegoptim
 jre8-openjdk
 kate
 kcalc
@@ -134,7 +138,18 @@ minetest-nodecore
 minetest-update-translations-git
 mingw-w64-cmake
 mingw-w64-gcc
+mingw-w64-ucrt-x86_64-SDL2
+mingw-w64-ucrt-x86_64-cmake
+mingw-w64-ucrt-x86_64-curl-winssl
+mingw-w64-ucrt-x86_64-freetype
+mingw-w64-ucrt-x86_64-gcc
+mingw-w64-ucrt-x86_64-glew
+mingw-w64-ucrt-x86_64-gtk3
+mingw-w64-ucrt-x86_64-libjpeg-turbo
+mingw-w64-ucrt-x86_64-libpng
+mingw-w64-ucrt-x86_64-ninja
 mpv
+msys2-keyring
 nano
 nbtexplorer-bin
 net-tools
@@ -162,6 +177,7 @@ pipewire-pulse
 plasma-desktop
 plasma-pa
 plasma-wayland-protocols
+pmbootstrap
 pngquant
 postgresql
 principia
@@ -169,6 +185,8 @@ prismlauncher
 pulseaudio-ctl
 python-discord-webhook
 python-kaitaistruct
+python-psycopg2
+python-pylint
 python-weasyprint
 python-zstd
 qbittorrent
@@ -177,6 +195,7 @@ qemu-desktop
 qt5-imageformats
 qt5ct
 quassel-monolithic
+quickemu-git
 rnote
 rofi
 rtaudio
@@ -188,10 +207,12 @@ sdl2
 sdl2_mixer
 sdl2_ttf
 shellcheck
+signal-desktop
 simplescreenrecorder
 sloccount
 slock
 snes9x
+soundfont-fluid
 spectacle
 sqlitebrowser
 sqlmap
@@ -216,6 +237,7 @@ ttf-twemoji
 tumbler
 unrar
 valgrind
+ventoy-bin
 virt-manager
 visual-studio-code-bin
 vlc
