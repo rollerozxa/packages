@@ -43,12 +43,13 @@ docker
 dolphin
 dolphin-emu
 dolphin-plugins
+doxygen
 dummypkg
 dust
 efibootmgr
 electron
 element-desktop
-elinks
+emscripten
 ethtool
 fakepkg
 fastfetch
@@ -68,6 +69,7 @@ freej2me
 furnace-git
 gajim
 gdb
+geogebra
 ghex
 gimp
 git-annex
@@ -129,6 +131,7 @@ massif-visualizer
 maven
 melonds-git
 mesa-utils
+mgba-qt
 mgba-sdl
 milkytracker
 minetest-devtest-git
@@ -148,14 +151,14 @@ mingw-w64-ucrt-x86_64-gtk3
 mingw-w64-ucrt-x86_64-libjpeg-turbo
 mingw-w64-ucrt-x86_64-libpng
 mingw-w64-ucrt-x86_64-ninja
+mingw-w64-ucrt-x86_64-ntldd
+mold
 mpv
 msys2-keyring
 nano
 nbtexplorer-bin
 net-tools
-netsurf
 nmap
-nsis
 ntfs-3g
 oath-toolkit
 obs-studio
@@ -168,6 +171,7 @@ pandoc-cli
 parallel
 partitionmanager
 pavucontrol-qt
+persepolis
 php-apcu
 php-gd
 php-sdl
@@ -265,4 +269,6 @@ xorg-xeyes
 xorg-xinit
 yay-bin
 yt-dlp
+zed-editor-preview-bin
 zoom
+zsnes
