@@ -28,6 +28,7 @@ citra-qt-git
 clamtk
 classicube-git
 cmatrix
+code
 colorgrab
 corectrl
 cowsay
@@ -171,6 +172,7 @@ pandoc-cli
 parallel
 partitionmanager
 pavucontrol-qt
+pcsx2-git
 persepolis
 php-apcu
 php-gd
@@ -184,7 +186,7 @@ plasma-wayland-protocols
 pmbootstrap
 pngquant
 postgresql
-principia
+principia-git
 prismlauncher
 pulseaudio-ctl
 python-discord-webhook
@@ -200,6 +202,7 @@ qt5-imageformats
 qt5ct
 quassel-monolithic
 quickemu-git
+renderdoc
 rnote
 rofi
 rtaudio
@@ -243,7 +246,6 @@ unrar
 valgrind
 ventoy-bin
 virt-manager
-visual-studio-code-bin
 vlc
 vulkan-radeon
 vulkan-tools
