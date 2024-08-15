@@ -11,6 +11,7 @@ bind
 bitwarden
 bleachbit
 blender
+bloaty-git
 blockbench-bin
 bluedevil
 bsod
@@ -27,15 +28,18 @@ classicube-git
 cmake
 cmatrix
 code
+colord-kde
 colorgrab
 corectrl
 cowsay
 cppcheck
+cups
 dart-sass
 debian-archive-keyring
 debootstrap
 devtools
 dhcpcd
+displaycal
 dnsmasq
 docker
 dolphin
@@ -45,6 +49,7 @@ doxygen
 dummypkg
 dust
 efibootmgr
+efitools
 electron
 emscripten
 ethtool
@@ -70,6 +75,7 @@ ghex
 gimp
 git-annex
 gitui
+gnome-color-manager
 gnome-keyring
 gnu-free-fonts
 goaccess
@@ -78,10 +84,12 @@ gradle
 grub
 guetzli
 gwenview
+handbrake
 heaptrack
 hexcurse
 hexdiff
 hotspot-git
+hplip
 hunspell-en_gb
 hyfetch
 icoutils
@@ -166,6 +174,7 @@ okular
 openmpt
 otf-archivo
 otf-intel-one-mono
+oxipng
 pacman-contrib
 pandoc-cli
 parallel
@@ -188,7 +197,6 @@ pngquant
 postgresql
 principia
 prismlauncher
-pulseaudio-ctl
 python-discord-webhook
 python-kaitaistruct
 python-pylint
@@ -197,8 +205,7 @@ python-zstd
 qbittorrent
 qdirstat
 qemu-desktop
-qoi-headers-git
-qoiconv-git
+qemu-system-aarch64
 qt5-imageformats
 qt5ct
 quassel-monolithic
@@ -212,6 +219,7 @@ ruby
 rz-cutter
 rz-ghidra
 scrcpy
+sdl12-compat
 sdl2
 sdl2_mixer
 sdl2_ttf
