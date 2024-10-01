@@ -3,6 +3,7 @@ android-sdk-build-tools
 android-studio
 archiso
 ark
+audacious
 audacity
 base
 base-devel
@@ -11,7 +12,7 @@ bind
 bitwarden
 bleachbit
 blender
-bloaty-git
+bloaty
 blockbench-bin
 bluedevil
 bsod
@@ -216,6 +217,7 @@ rnote
 rofi
 rtaudio
 ruby
+ruby-stdlib
 rz-cutter
 rz-ghidra
 scrcpy
@@ -251,12 +253,14 @@ tumbler
 unrar
 valgrind
 ventoy-bin
+vim
 virt-manager
 vlc
 vsce
 vulkan-radeon
 vulkan-tools
 wacomtablet
+wcurl
 webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
@@ -278,3 +282,4 @@ xorg-xinit
 yay-bin
 yt-dlp
 zoom
+zotero-bin
