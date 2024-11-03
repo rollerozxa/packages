@@ -73,6 +73,7 @@ gajim
 gdb
 geogebra
 ghex
+ghidra
 gimp
 git-annex
 gitui
@@ -234,7 +235,6 @@ sqlitebrowser
 sshfs
 steam
 sysstat
-thunar
 tigervnc
 tk
 torbrowser-launcher
@@ -249,10 +249,8 @@ ttf-opensans
 ttf-roboto
 ttf-roboto-mono
 ttf-twemoji
-tumbler
 unrar
 valgrind
-ventoy-bin
 vim
 virt-manager
 vlc
@@ -267,19 +265,8 @@ whitesur-cursor-theme-git
 whois
 wine-staging
 wireshark-qt
-xfce4-notifyd
-xfce4-panel
-xfce4-pulseaudio-plugin
-xfce4-sensors-plugin
-xfce4-session
-xfce4-settings
-xfce4-systemload-plugin
-xfconf
-xfdesktop
-xfwm4
 xorg-xeyes
 xorg-xinit
 yay-bin
 yt-dlp
 zoom
-zotero-bin
