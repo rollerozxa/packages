@@ -5,6 +5,7 @@ archiso
 ark
 audacious
 audacity
+azure-cli
 base
 base-devel
 base-rollerozxa
@@ -119,7 +120,6 @@ krita
 kscreen
 libreoffice-fresh
 libresprite-git
-libva-mesa-driver
 linux
 linux-firmware
 llvm-mingw-w64-cmake
@@ -142,14 +142,10 @@ maven
 mc
 melonds-git
 mesa-utils
-mesa-vdpau
 mgba-qt
 mgba-sdl
 milkytracker
-minetest-devtest-git
-minetest-formspec-editor
-minetest-labyrinth
-minetest-nodecore
+minetest-git
 minetest-update-translations-git
 mingw-w64-ucrt-x86_64-SDL2
 mingw-w64-ucrt-x86_64-cmake
@@ -163,6 +159,7 @@ mingw-w64-ucrt-x86_64-libpng
 mingw-w64-ucrt-x86_64-ninja
 mingw-w64-ucrt-x86_64-ntldd
 mold
+mongodb-compass
 mpv
 msys2-keyring
 nano
@@ -196,11 +193,13 @@ plasma-pa
 plasma-wayland-protocols
 pmbootstrap
 pngquant
+poedit
 postgresql
-principia
+principia-git
 prismlauncher
 python-discord-webhook
 python-kaitaistruct
+python-polib
 python-pylint
 python-weasyprint
 python-zstd
@@ -208,6 +207,7 @@ qbittorrent
 qdirstat
 qemu-desktop
 qemu-system-aarch64
+qrtool
 qt5-imageformats
 qt5ct
 quassel-monolithic
@@ -255,7 +255,6 @@ vim
 virt-manager
 vlc
 vsce
-vulkan-radeon
 vulkan-tools
 wacomtablet
 wcurl
