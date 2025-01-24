@@ -1,6 +1,7 @@
 amd-ucode
 android-sdk-build-tools
 android-studio
+angular-cli
 archiso
 ark
 audacious
@@ -48,7 +49,6 @@ dolphin
 dolphin-emu
 dolphin-plugins
 doxygen
-dummypkg
 dust
 efibootmgr
 efitools
@@ -69,7 +69,7 @@ firefox-ublock-origin
 flamegraph
 fontforge
 freej2me
-furnace-git
+furnace
 gajim
 gdb
 geogebra
@@ -93,6 +93,7 @@ hexcurse
 hexdiff
 hotspot-git
 hplip
+hugo
 hunspell-en_gb
 hyfetch
 icoutils
@@ -103,8 +104,6 @@ intellij-idea-community-edition
 inxi
 jadx
 jd-gui-bin
-jdk-openjdk
-jdk11-openjdk
 jdk21-openjdk
 jpegoptim
 jre8-openjdk
@@ -142,6 +141,7 @@ maven
 mc
 melonds-git
 mesa-utils
+meson
 mgba-qt
 mgba-sdl
 milkytracker
@@ -160,6 +160,7 @@ mingw-w64-ucrt-x86_64-ninja
 mingw-w64-ucrt-x86_64-ntldd
 mold
 mongodb-compass
+moondust-project-git
 mpv
 msys2-keyring
 nano
@@ -194,7 +195,6 @@ plasma-wayland-protocols
 pmbootstrap
 pngquant
 poedit
-postgresql
 principia-git
 prismlauncher
 python-discord-webhook
@@ -207,12 +207,14 @@ qbittorrent
 qdirstat
 qemu-desktop
 qemu-system-aarch64
+qoa-git
 qrtool
 qt5-imageformats
 qt5ct
 quassel-monolithic
 quickemu-git
 radeontop
+rcedit-bin
 renderdoc
 rnote
 rofi
@@ -235,6 +237,9 @@ sqlitebrowser
 sshfs
 steam
 sysstat
+telegram-desktop
+thextech-assetpack-smbx13
+thextech-git
 tigervnc
 tk
 torbrowser-launcher
