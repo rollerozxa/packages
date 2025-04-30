@@ -67,7 +67,6 @@ ghidra
 gimp
 gitui
 gnome-color-manager
-gnome-keyring
 gnu-free-fonts
 goaccess
 gource
@@ -91,7 +90,6 @@ inotify-tools
 intellij-idea-community-edition
 inxi
 jadx
-jd-gui-bin
 jdk21-openjdk
 jpegoptim
 jre8-openjdk
@@ -106,21 +104,16 @@ kitty
 krita
 kscreen
 libreoffice-fresh
-libresprite-git
 linux
 linux-firmware
 llvm-mingw-w64-cmake
-llvm-mingw-w64-toolchain-msvcrt-bin
 llvm-mingw-w64-toolchain-ucrt-bin
 logstalgia
-losslesscut-bin
 love
 lua
 lua-socket
 lua51
 lua51-busted
-lua51-lpeg
-lua51-lsqlite3
 luacheck
 luarocks
 ly
@@ -251,7 +244,6 @@ virtualbox
 virtualbox-host-modules-arch
 visual-studio-code-bin
 vlc
-vsce
 vulkan-tools
 wacomtablet
 wcurl
