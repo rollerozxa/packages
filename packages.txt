@@ -52,7 +52,6 @@ ffmpegthumbs
 filelight
 filezilla
 firefox
-firefox-decentraleyes
 firefox-stylus
 firefox-ublock-origin
 flamegraph
@@ -103,10 +102,12 @@ kgamma
 kitty
 krita
 kscreen
+kwalletmanager
 libreoffice-fresh
 linux
 linux-firmware
 llvm-mingw-w64-cmake
+llvm-mingw-w64-toolchain-msvcrt-bin
 llvm-mingw-w64-toolchain-ucrt-bin
 logstalgia
 love
@@ -139,7 +140,6 @@ mingw-w64-clang-x86_64-libpng
 mingw-w64-clang-x86_64-nsis
 mingw-w64-clang-x86_64-ntldd
 mold
-moondust-project-git
 mpv
 msys2-keyring
 nano
@@ -214,15 +214,15 @@ shellcheck
 snes9x
 soundfont-fluid
 spectacle
+spotify-launcher
 sqlitebrowser
 sshfs
 steam
 sysstat
 telegram-desktop
-thextech-assetpack-smbx13
-thextech-git
 tigervnc
 tiled
+tinyxxd
 tk
 torbrowser-launcher
 traceroute
@@ -238,7 +238,6 @@ ttf-roboto-mono
 ttf-twemoji
 unrar
 valgrind
-vim
 virt-manager
 virtualbox
 virtualbox-host-modules-arch
