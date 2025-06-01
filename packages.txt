@@ -1,6 +1,7 @@
 amd-ucode
 android-sdk-build-tools
 android-studio
+angular-cli
 archiso
 ark
 audacious
@@ -67,6 +68,7 @@ gimp
 gitui
 gnome-color-manager
 gnu-free-fonts
+go
 goaccess
 gource
 gradle
@@ -77,7 +79,6 @@ handbrake
 heaptrack
 hexcurse
 hexdiff
-hotspot-git
 hplip
 hugo
 hunspell-en_gb
@@ -104,6 +105,7 @@ krita
 kscreen
 kwalletmanager
 libreoffice-fresh
+libresprite
 linux
 linux-firmware
 llvm-mingw-w64-cmake
@@ -140,12 +142,14 @@ mingw-w64-clang-x86_64-libpng
 mingw-w64-clang-x86_64-nsis
 mingw-w64-clang-x86_64-ntldd
 mold
+mongodb-compass-bin
 mpv
 msys2-keyring
 nano
 nbtexplorer-bin
 net-tools
 nmap
+npm
 ntfs-3g
 oath-toolkit
 obs-studio
@@ -161,6 +165,7 @@ partitionmanager
 pavucontrol-qt
 pcsx2-git
 perf
+perl-image-exiftool
 persepolis
 php-apcu
 php-gd
@@ -245,7 +250,6 @@ visual-studio-code-bin
 vlc
 vulkan-tools
 wacomtablet
-wcurl
 webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
