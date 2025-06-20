@@ -1,7 +1,6 @@
 amd-ucode
 android-sdk-build-tools
 android-studio
-angular-cli
 archiso
 ark
 audacious
@@ -65,6 +64,7 @@ geogebra
 ghex
 ghidra
 gimp
+github-cli
 gitui
 gnome-color-manager
 gnu-free-fonts
@@ -142,7 +142,6 @@ mingw-w64-clang-x86_64-libpng
 mingw-w64-clang-x86_64-nsis
 mingw-w64-clang-x86_64-ntldd
 mold
-mongodb-compass-bin
 mpv
 msys2-keyring
 nano
