@@ -107,11 +107,15 @@ kwalletmanager
 libreoffice-fresh
 libresprite
 linux
-linux-firmware
+linux-firmware-amdgpu
+linux-firmware-intel
+linux-firmware-other
+linux-firmware-realtek
 llvm-mingw-w64-cmake
 llvm-mingw-w64-toolchain-msvcrt-bin
 llvm-mingw-w64-toolchain-ucrt-bin
 logstalgia
+losslesscut-bin
 love
 lua
 lua-socket
@@ -192,6 +196,7 @@ qemu-desktop
 qemu-system-aarch64
 qemu-system-arm-firmware
 qoa-git
+qpwgraph
 qrtool
 qt5-imageformats
 qt5ct
@@ -247,6 +252,7 @@ virtualbox
 virtualbox-host-modules-arch
 visual-studio-code-bin
 vlc
+vlc-plugin-ogg
 vulkan-tools
 wacomtablet
 webdev-rollerozxa
