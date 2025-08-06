@@ -42,6 +42,7 @@ doxygen
 dust
 efibootmgr
 efitools
+element-desktop
 emscripten
 ethtool
 fakepkg
@@ -61,9 +62,11 @@ furnace
 gajim
 gdb
 geogebra
+gforth
 ghex
 ghidra
 gimp
+git-filter-repo
 github-cli
 gitui
 gnome-color-manager
@@ -145,6 +148,7 @@ mingw-w64-clang-x86_64-libjpeg-turbo
 mingw-w64-clang-x86_64-libpng
 mingw-w64-clang-x86_64-nsis
 mingw-w64-clang-x86_64-ntldd
+mkcert
 mold
 mpv
 msys2-keyring
@@ -172,6 +176,7 @@ perl-image-exiftool
 persepolis
 php-apcu
 php-gd
+php-maxminddb
 php-sdl
 php-sqlite
 php-zstd
@@ -252,7 +257,10 @@ virtualbox
 virtualbox-host-modules-arch
 visual-studio-code-bin
 vlc
+vlc-plugin-ffmpeg
 vlc-plugin-ogg
+vlc-plugin-x264
+vlc-plugin-x265
 vulkan-tools
 wacomtablet
 webdev-rollerozxa
