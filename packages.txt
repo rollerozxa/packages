@@ -23,10 +23,8 @@ clamtk
 cmake
 cmatrix
 colord-kde
-colorgrab
 corectrl
 cowsay
-cppcheck
 cups
 dart-sass
 debian-archive-keyring
@@ -62,7 +60,6 @@ furnace
 gajim
 gdb
 geogebra
-gforth
 ghex
 ghidra
 gimp
@@ -78,7 +75,6 @@ gradle
 grub
 guetzli
 gwenview
-handbrake
 heaptrack
 hexcurse
 hexdiff
@@ -270,7 +266,6 @@ whois
 wine-staging
 wireshark-qt
 xorg-xeyes
-xorg-xinit
 yay-bin
 yt-dlp
 zoom
