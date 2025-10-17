@@ -31,11 +31,13 @@ debian-archive-keyring
 debootstrap
 devtools
 dhcpcd
+dillo
 dnsmasq
 docker
 dolphin
 dolphin-emu
 dolphin-plugins
+dotnet-sdk
 doxygen
 dust
 efibootmgr
@@ -83,6 +85,7 @@ hugo
 hunspell-en_gb
 hyfetch
 icoutils
+include-what-you-use
 inetutils
 inkscape
 inotify-tools
@@ -110,7 +113,6 @@ linux-firmware-amdgpu
 linux-firmware-intel
 linux-firmware-other
 linux-firmware-realtek
-llvm-mingw-w64-cmake
 llvm-mingw-w64-toolchain-msvcrt-bin
 llvm-mingw-w64-toolchain-ucrt-bin
 logstalgia
@@ -175,7 +177,6 @@ php-gd
 php-maxminddb
 php-sdl
 php-sqlite
-php-zstd
 pipewire-pulse
 plasma-desktop
 plasma-pa
@@ -185,10 +186,11 @@ pngquant
 poedit
 principia-git
 prismlauncher
-python-discord-webhook
 python-kaitaistruct
+python-pip
 python-polib
 python-pylint
+python-rich
 python-weasyprint
 python-zstd
 qbittorrent
@@ -201,6 +203,7 @@ qpwgraph
 qrtool
 qt5-imageformats
 qt5ct
+qt6-connectivity
 quassel-monolithic
 quickemu-git
 radeontop
@@ -221,6 +224,7 @@ sdl2_ttf
 sdl3
 sdl3_mixer-git
 shellcheck
+signal-desktop
 snes9x
 soundfont-fluid
 spectacle
@@ -246,6 +250,7 @@ ttf-opensans
 ttf-roboto
 ttf-roboto-mono
 ttf-twemoji
+twine
 unrar
 valgrind
 virt-manager
