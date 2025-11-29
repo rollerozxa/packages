@@ -1,10 +1,12 @@
 amd-ucode
 android-sdk-build-tools
 android-studio
+android-udev
 archiso
 ark
 audacious
 audacity
+azahar
 base
 base-devel
 base-rollerozxa
@@ -18,8 +20,8 @@ busted
 butler
 cheese
 chromium
-citra-qt-git
 clamtk
+cloudflare-warp-bin
 cmake
 cmatrix
 colord-kde
@@ -85,7 +87,6 @@ hugo
 hunspell-en_gb
 hyfetch
 icoutils
-include-what-you-use
 inetutils
 inkscape
 inotify-tools
@@ -93,6 +94,7 @@ intellij-idea-community-edition
 inxi
 jadx
 jdk21-openjdk
+jdk8-openjdk
 jpegoptim
 jre8-openjdk
 kate
@@ -123,6 +125,8 @@ lua-socket
 lua51
 lua51-busted
 luacheck
+luanti
+luanti-common
 luarocks
 ly
 man-db
@@ -135,7 +139,6 @@ meson
 mgba-qt
 mgba-sdl
 milkytracker
-minetest-git
 mingw-w64-clang-x86_64-SDL2
 mingw-w64-clang-x86_64-cmake
 mingw-w64-clang-x86_64-curl-winssl
@@ -264,6 +267,7 @@ vlc-plugin-x264
 vlc-plugin-x265
 vulkan-tools
 wacomtablet
+waydroid
 webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
@@ -274,3 +278,4 @@ xorg-xeyes
 yay-bin
 yt-dlp
 zoom
+zotero-bin
