@@ -1,3 +1,4 @@
+7zip
 amd-ucode
 android-sdk-build-tools
 android-studio
@@ -9,7 +10,6 @@ audacity
 azahar
 base
 base-devel
-base-rollerozxa
 bind
 bitwarden
 blender
@@ -22,6 +22,7 @@ clamtk
 cmake
 cmatrix
 colord-kde
+composer
 corectrl
 cowsay
 cups
@@ -77,6 +78,7 @@ guetzli
 gwenview
 heaptrack
 hplip
+htop
 hugo
 hunspell-en_gb
 hyfetch
@@ -115,7 +117,9 @@ llvm-mingw-w64-toolchain-msvcrt-bin
 llvm-mingw-w64-toolchain-ucrt-bin
 logstalgia
 losslesscut-bin
+lostfiles
 love
+lsd
 lua
 lua-socket
 lua51
@@ -127,6 +131,7 @@ luarocks
 ly
 man-db
 mangohud
+mariadb
 massif-visualizer
 maven
 melonds-bin
@@ -134,6 +139,7 @@ mesa-utils
 meson
 mgba-qt
 mgba-sdl
+micro
 milkytracker
 mingw-w64-clang-x86_64-SDL2
 mingw-w64-clang-x86_64-cmake
@@ -152,6 +158,7 @@ nano
 nasm
 nbtexplorer-bin
 net-tools
+nginx
 nmap
 npm
 ntfs-3g
@@ -159,6 +166,7 @@ oath-toolkit
 obs-studio
 okular
 openmpt
+optipng
 otf-archivo
 oxipng
 pacman-contrib
@@ -171,6 +179,7 @@ perf
 perl-image-exiftool
 persepolis
 php-apcu
+php-fpm
 php-gd
 php-maxminddb
 php-sqlite
@@ -214,6 +223,7 @@ ruby
 ruby-stdlib
 rz-cutter
 rz-ghidra
+sassc
 scrcpy
 sddm
 sdl12-compat
@@ -235,6 +245,7 @@ tigervnc
 tiled
 tinyxxd
 tk
+tldr
 torbrowser-launcher
 traceroute
 tree
@@ -262,7 +273,6 @@ vlc-plugin-x264
 vlc-plugin-x265
 vulkan-tools
 wacomtablet
-webdev-rollerozxa
 wget
 whitesur-cursor-theme-git
 whois
@@ -272,3 +282,5 @@ xorg-xeyes
 yay-bin
 yt-dlp
 zoom
+zsh
+zshrc-rollerozxa
